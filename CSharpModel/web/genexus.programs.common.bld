@@ -1,0 +1,14 @@
+GeneXus.dll
+type_SdtWorkWithDevicesProductType_ProductType_DetailSdt.cs
+type_SdtWorkWithDevicesProductType_ProductType_List_Grid1Sdt_Item.cs
+type_SdtWorkWithDevicesProductType_ProductType_Section_GeneralSdt.cs
+type_SdtWorkWithDevicesProductType_ProductType_Section_Product_Grid1Sdt_Item.cs
+GxWebStd.cs
+GxWebServicesConfig.cs
+SoapParm.cs
+GxObjectCollection.cs
+GxFullTextSearchReindexer.cs
+GxModelInfoProvider.cs
+@genexus.programs.sdt.bld
+type_SdtProductType.cs
+gxdomainpage.cs

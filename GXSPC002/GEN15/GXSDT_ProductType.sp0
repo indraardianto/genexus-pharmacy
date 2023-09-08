@@ -1,0 +1,54 @@
+ 
+spec_i([ sdt,[ 0,2,0 ],'ProductType','ProductType',0,eng,'17_0_8-158023' ]).
+ 
+struct_dt_i([ 0,2,0 ],name,'ProductType').
+struct_dt_i([ 0,2,0 ],namespace,'Pharmacy').
+struct_dt_i([ 0,2,0 ],significantName,'ProductType').
+struct_dt_i([ 0,2,0 ],'ObjName','ProductType').
+struct_dt_i([ 0,2,0 ],'ObjDesc','Product Type').
+struct_dt_i([ 0,2,0 ],'ExternalName','ProductType').
+struct_dt_i([ 0,2,0 ],'ExternalNamespace','Pharmacy').
+struct_dt_i([ 0,2,0 ],key,[ 5 ]).
+struct_dt_i([ 0,2,0 ],lvl,2).
+struct_dt_i([ 0,2,0 ],fullname,'ProductType').
+ 
+struct_dt_elem_i([ 0,2,0 ],1,name,'Producttypecode').
+struct_dt_elem_i([ 0,2,0 ],1,camelname,'ProductTypeCode').
+struct_dt_elem_i([ 0,2,0 ],1,length,4).
+struct_dt_elem_i([ 0,2,0 ],1,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],1,sign,0).
+struct_dt_elem_i([ 0,2,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 0,2,0 ],1,pic,'ZZZ9').
+struct_dt_elem_i([ 0,2,0 ],1,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],1,attributeid,'5').
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalName','ProductTypeCode').
+struct_dt_elem_i([ 0,2,0 ],1,'ExternalNamespace','Pharmacy').
+struct_dt_elem_i([ 0,2,0 ],2,name,'Producttypename').
+struct_dt_elem_i([ 0,2,0 ],2,camelname,'ProductTypeName').
+struct_dt_elem_i([ 0,2,0 ],2,length,50).
+struct_dt_elem_i([ 0,2,0 ],2,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],2,type,[ 5,50,0 ]).
+struct_dt_elem_i([ 0,2,0 ],2,pic,'').
+struct_dt_elem_i([ 0,2,0 ],2,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],2,attributeid,'6').
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalName','ProductTypeName').
+struct_dt_elem_i([ 0,2,0 ],2,'ExternalNamespace','Pharmacy').
+struct_dt_elem_i([ 0,2,0 ],3,name,'Producttypeproductquantity').
+struct_dt_elem_i([ 0,2,0 ],3,camelname,'ProductTypeProductQuantity').
+struct_dt_elem_i([ 0,2,0 ],3,length,9).
+struct_dt_elem_i([ 0,2,0 ],3,decimals,0).
+struct_dt_elem_i([ 0,2,0 ],3,sign,0).
+struct_dt_elem_i([ 0,2,0 ],3,type,[ 4,9,0 ]).
+struct_dt_elem_i([ 0,2,0 ],3,pic,'ZZZZZZZZ9').
+struct_dt_elem_i([ 0,2,0 ],3,collection,'False').
+struct_dt_elem_i([ 0,2,0 ],3,attributeid,'8').
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalName','ProductTypeProductQuantity').
+struct_dt_elem_i([ 0,2,0 ],3,'ExternalNamespace','Pharmacy').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\Common','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\Common','AssemblyName','GeneXus.dll').

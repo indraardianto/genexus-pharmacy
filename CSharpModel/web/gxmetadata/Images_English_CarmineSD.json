@@ -1,0 +1,20 @@
+{ 
+    "ResourcesLocation" : "Resources",
+    "Language" : "English",
+    "Theme" : "CarmineSD",
+    "Images" : [ { 
+        "Name" : "Group",
+        "Type" : "I",
+        "Guid" : "429d6190-65aa-4257-86db-fce0370ff650",
+        "Location" : "CarmineSD/Group.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    }, { 
+        "Name" : "produk",
+        "Type" : "I",
+        "Guid" : "7e4fc3e0-fc40-4872-ba62-f7c2d0c22137",
+        "Location" : "produk.png",
+        "RenderingMode" : "automatic",
+        "FlipsForRTL" : false
+    } ]
+}

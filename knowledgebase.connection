@@ -1,0 +1,10 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_Pharmacy</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>DESKTOP-EPLVQU1\SQLEXPRESS</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\KB\Pharmacy</Directory>
+	<DataFile>GX_KB_Pharmacy.mdf</DataFile>
+	<LogFile>GX_KB_Pharmacy_log.ldf</LogFile>
+	<HostName>DESKTOP-EPLVQU1</HostName>
+</ConnectionInformation>

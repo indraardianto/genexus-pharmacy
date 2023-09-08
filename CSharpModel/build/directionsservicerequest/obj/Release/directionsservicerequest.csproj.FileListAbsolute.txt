@@ -1,0 +1,3 @@
+C:\KB\Pharmacy\CSharpModel\web\bin\directionsservicerequest.dll
+C:\KB\Pharmacy\CSharpModel\build\directionsservicerequest\obj\Release\directionsservicerequest.csprojResolveAssemblyReference.cache
+C:\KB\Pharmacy\CSharpModel\build\directionsservicerequest\obj\Release\directionsservicerequest.dll

@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ImportLog>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>TableDetail</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>TableSection</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>ApplicationBarsHeaderRow</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>WWLineSeparator</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>TableSectioninsert</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>MainTable</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>GridContainer</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>ButtonDelete</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>ButtonActionBar</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>WWImage</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>ViewImage</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>ImageLabelClass</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>ViewImageLabelClass</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>TextBlockSlider</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>AttributeLabel</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>LinkAttribute</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>d4876646-98dd-419b-8c1c-896f83c48368</Type>
+		<TypeName>ThemeClass</TypeName>
+		<Name>ConfirmButton</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Text</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Header</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>HeaderTitle</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Background</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>DataAreaBackground</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Action</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>DisabledAction</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>BolderText</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Border</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>GridHeaderBackground</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Danger</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>SecondaryAction</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>ActionHover</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Warning</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Base</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Dominant</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Read Only Text</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Grid Title</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Primary</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>PrimaryDark</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>Accent</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>ControlNormal</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>ControlActivated</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>ControlHighlight</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>ActionTint</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>BodyTextColor</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>BorderColor</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>5592de59-d30a-499d-9100-a7006d3674f2</Type>
+		<TypeName>ThemeColor</TypeName>
+		<Name>AttributeLabel</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c804fdbd-7c0b-440d-8527-4316c92649a6</Type>
+		<TypeName>Theme</TypeName>
+		<Name>CarmineIOS</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c804fdbd-7c0b-440d-8527-4316c92649a6</Type>
+		<TypeName>Theme</TypeName>
+		<Name>CarmineAndroid</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c804fdbd-7c0b-440d-8527-4316c92649a6</Type>
+		<TypeName>Theme</TypeName>
+		<Name>CarmineSD</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>c804fdbd-7c0b-440d-8527-4316c92649a6</Type>
+		<TypeName>Theme</TypeName>
+		<Name>CarmineWeb</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>9fb193d9-64a4-4d30-b129-ff7c76830f7e</Type>
+		<TypeName>Image</TypeName>
+		<Name>Group</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+	<RowImport>
+		<Status>Ok</Status>
+		<Type>3affc0b3-494b-4d84-9ec1-3a6ab8349cda</Type>
+		<TypeName>ColorPalette</TypeName>
+		<Name>CarmineSD</Name>
+		<Errors />
+		<Warnings />
+		<Info />
+	</RowImport>
+</ImportLog>

@@ -1,0 +1,7 @@
+domain_i(86,'gxdomainpage.cs').
+ext_sdt_map_i(15,'GeneXus.dll',[ 0,2,0 ]).
+sdt_map_i(15,'ProductType',[ 0,2,0 ]).
+sdt_map_i(15,'WorkWithDevicesProductType_ProductType_DetailSdt',[ 26,1000000,0 ]).
+sdt_map_i(15,'WorkWithDevicesProductType_ProductType_List_Grid1Sdt.Item',[ 26,1000000,1 ]).
+sdt_map_i(15,'WorkWithDevicesProductType_ProductType_Section_GeneralSdt',[ 26,1000000,0 ]).
+sdt_map_i(15,'WorkWithDevicesProductType_ProductType_Section_Product_Grid1Sdt.Item',[ 26,1000000,1 ]).

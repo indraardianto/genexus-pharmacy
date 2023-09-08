@@ -1,0 +1,8 @@
+com/artech/pharmacy/pharmacymenu/MainApplication.java
+ com.artech.pharmacy.pharmacymenu.MainApplication
+com/artech/pharmacy/pharmacymenu/AppEntityDataProvider.java
+ com.artech.pharmacy.pharmacymenu.AppEntityDataProvider
+com/artech/pharmacy/pharmacymenu/AppEntityService.java
+ com.artech.pharmacy.pharmacymenu.AppEntityService
+com/artech/pharmacy/pharmacymenu/BuildConfig.java
+ com.artech.pharmacy.pharmacymenu.BuildConfig

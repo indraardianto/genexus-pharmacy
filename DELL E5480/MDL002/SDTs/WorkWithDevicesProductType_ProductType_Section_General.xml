@@ -1,0 +1,64 @@
+
+<SdtSpec>
+<mainid>[ 26,1000000,0 ]</mainid>
+<Level>
+<id>[ 26,1000000,0 ]</id>
+<name>WorkWithDevicesProductType_ProductType_Section_GeneralSdt</name>
+<camelname>WorkWithDevicesProductType_ProductType_Section_GeneralSdt</camelname>
+<camelnameex>WorkWithDevicesProductType_ProductType_Section_GeneralSdt</camelnameex>
+<collection>False</collection>
+<wwsd_sdt>True</wwsd_sdt>
+<panel>[ 'ProductType.Section.General' ]</panel>
+<key>[ 2,[ 5 ],[ 2,1,'ProductType' ] ]</key>
+<modified>yes</modified>
+<fullname>WorkWithDevicesProductType_ProductType_Section_GeneralSdt</fullname>
+<members>
+<member>
+<name>Producttypecode</name>
+<camelname>ProductTypeCode</camelname>
+<type>[ 4,4,0 ]</type>
+<length>4</length>
+<decimals>0</decimals>
+<sign>0</sign>
+<collection>False</collection>
+<islevel>False</islevel>
+<attributeid>5</attributeid></member>
+<member>
+<name>Producttypename</name>
+<camelname>ProductTypeName</camelname>
+<type>[ 5,50,0 ]</type>
+<length>50</length>
+<decimals>0</decimals>
+<sign>0</sign>
+<collection>False</collection>
+<islevel>False</islevel>
+<attributeid>6</attributeid></member>
+<member>
+<name>Producttypeproductquantity</name>
+<camelname>ProductTypeProductQuantity</camelname>
+<type>[ 4,9,0 ]</type>
+<length>9</length>
+<decimals>0</decimals>
+<sign>0</sign>
+<collection>False</collection>
+<islevel>False</islevel>
+<attributeid>8</attributeid></member></members></Level>
+<Prompts></Prompts>
+<TableAccess>
+<Table>
+<Id>1</Id>
+<Name>Product</Name>
+<Read>y</Read>
+<Insert>n</Insert>
+<Update>n</Update>
+<Delete>n</Delete>
+<IsBase>n</IsBase></Table>
+<Table>
+<Id>2</Id>
+<Name>ProductType</Name>
+<Read>y</Read>
+<Insert>n</Insert>
+<Update>n</Update>
+<Delete>n</Delete>
+<IsBase>y</IsBase></Table></TableAccess>
+<XRef></XRef></SdtSpec>

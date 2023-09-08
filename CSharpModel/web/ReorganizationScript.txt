@@ -1,0 +1,9 @@
+CREATE TABLE [GXA0001] ([ProductCode] smallint NOT NULL , [ProductName] nchar(50) NOT NULL , [ProductPrice] money NOT NULL , [ProductStock] smallint NOT NULL , [ProductTypeCode] smallint NOT NULL , [ProductPhoto] VARBINARY(MAX) NOT NULL , [ProductPhoto_GXI] varchar(2048) NOT NULL )
+INSERT INTO [GXA0001] ([ProductCode], [ProductName], [ProductPrice], [ProductStock], [ProductTypeCode], [ProductPhoto], [ProductPhoto_GXI]) SELECT [ProductCode], [ProductName], [ProductPrice], [ProductStock], [ProductTypeCode], [ProductPhoto], [ProductPhoto_GXI] FROM [Product] T1
+DROP TABLE [Product]
+sp_rename '[GXA0001]', 'Product'
+ALTER TABLE [Product] ADD PRIMARY KEY([ProductCode])
+CREATE NONCLUSTERED INDEX [IPRODUCT1] ON [Product] ([ProductTypeCode] )
+
+ALTER TABLE [Product] ADD CONSTRAINT [IPRODUCT1] FOREIGN KEY ([ProductTypeCode]) REFERENCES [ProductType] ([ProductTypeCode])
+

@@ -1,0 +1,22 @@
+{ 
+    "Resources" : [ { 
+        "IsDefault" : true,
+        "ResourceFile" : "Images_DEFAULT.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "CarmineIOS",
+        "ResourceFile" : "Images_English_CarmineIOS.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "CarmineSD",
+        "ResourceFile" : "Images_English_CarmineSD.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "CarmineAndroid",
+        "ResourceFile" : "Images_English_CarmineAndroid.json"
+    }, { 
+        "Language" : "English",
+        "Theme" : "CarmineWeb",
+        "ResourceFile" : "Images_English_CarmineWeb.json"
+    } ]
+}

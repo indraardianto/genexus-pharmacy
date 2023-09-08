@@ -1,0 +1,3 @@
+C:\KB\Pharmacy\CSharpModel\web\bin\anotificationsregistrationhandler.dll
+C:\KB\Pharmacy\CSharpModel\build\anotificationsregistrationhandler\obj\Release\anotificationsregistrationhandler.csprojResolveAssemblyReference.cache
+C:\KB\Pharmacy\CSharpModel\build\anotificationsregistrationhandler\obj\Release\anotificationsregistrationhandler.dll

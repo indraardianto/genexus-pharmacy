@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dependencies type="name" name="WorkWithDevicesProductType_ProductType_Section_Product_Grid1">
+  <Table name="Product" />
+</Dependencies>

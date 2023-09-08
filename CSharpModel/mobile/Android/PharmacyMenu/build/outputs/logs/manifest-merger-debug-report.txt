@@ -1,0 +1,577 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:2:1-32:12
+MERGED from [com.genexus:CoreUserControls:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\35bc598145356ed7849d22bf60eb39d5\jetified-CoreUserControls-17.8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.genexus:SmartGridLib:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\5adae4b4f38cc7f8e1724d2759e1eb69\jetified-SmartGridLib-17.8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:2:1-124:12
+MERGED from [com.genexus:SqlDroidBase:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\d4f3a9b76916c4c6c1f38d43dc411b0b\jetified-SqlDroidBase-17.8\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\11b130d383717d092c2e6da7b367fdca\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\065024548d40e46946ef477ace4d4161\preference-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9fa8fb93dfec6a84a70fa805b5172b60\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e3f9cdef1464a76b5679ecb8b475354a\appcompat-1.2.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\7ac469eef273637cd2ad206b9a069ee6\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e64d7e35297cd41dce00b6cf2b20e9e2\jetified-picasso-2.8\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\64f0ead74e54adb37ca2565ff75211b9\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6521fa1a140394b1307b3d06998447b7\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\24c21ebee38495bf004b369d425a689f\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c039c2e9ded07284834b4d3482fb4796\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\095aa936953f9e0629c80d17517cad12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c76d19e2f543234c72419290b7fb11ca\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\768cfb2a4262fa5cb65ae34180ff5bc0\jetified-appcompat-resources-1.2.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\f68eb04825f2cedf22e6a46b3ee59b2f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\3c93d0ec54ff424d618d45305f0eeef9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c39e7a1bdb840c08118de3e9b81540e3\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\3a805a603452127b4189783e74e921e7\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9bdac95bf32f882e8907da8b90fe7f91\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\caaf3a03f67f23abf8dba149bfe4e44f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c60d2eab6b872ec541c97a885fed8242\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\0558d3a2e5c837893832dccc8f4af894\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\90147da073bdb30c0bbfeac434ced1b7\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\1394b21760b0162aa2996e1b887c808e\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\5ace23f4b298d4515ea27b8f7ef3cc0b\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\16da138374f531a9cd3a33d682178f5f\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\85513e5c68c85e590dbf999d42be72e5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\b5ada417d2ba475801a344d23c657f84\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\fa10f1979e82292436b8ec829da74736\core-1.3.0-rc01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\463a52ac9d1ca9d12a2572a431154c4e\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\f0df0b30ada10eae71cbd2f6948fc092\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\d711a29629d59415dd68d09d2b526c46\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\aab84b7d38b09b6e29aacf6fc1a060fd\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\ec2edf78c1abc9b706637461e7b527e6\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\975132590ec8a942ce0326aa0ed0c8fb\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6d9f40c547df1bb9a18467d82cf33a0b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\687e4368fdc5698b830f001d95799008\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\866af7eab7309e0d1c2f0a8ab91b17c8\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\89ac658eb2b84158cdd4e37da046350e\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\34d36200c07d1e58d06287c22c041e5a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\843617e298e2c1967e06ef89f80cdb39\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\997d0f6c58b13a39a7fb034555510d44\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.zolad:zoominimageview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9cc5cc9427231dc7d81ad10dd8d5cff7\jetified-zoominimageview-1.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.caverock:androidsvg-aar:1.4] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\0deec065129511f795d0956de3657830\jetified-androidsvg-aar-1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.genexus:roundedimageview:2.4.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\f99aaedb815517cec9b596845dbff21c\jetified-roundedimageview-2.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:2:1-52:12
+MERGED from [com.simplecityapps:recyclerview-fastscroll:2.0.1] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\0ed522506471d6acc10c32ad013138f0\jetified-recyclerview-fastscroll-2.0.1\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:4:5-35
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:10:5-35:17
+MERGED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:26:5-30:19
+MERGED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:26:5-30:19
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:43:5-122:19
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:43:5-122:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9fa8fb93dfec6a84a70fa805b5172b60\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9fa8fb93dfec6a84a70fa805b5172b60\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e64d7e35297cd41dce00b6cf2b20e9e2\jetified-picasso-2.8\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e64d7e35297cd41dce00b6cf2b20e9e2\jetified-picasso-2.8\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\24c21ebee38495bf004b369d425a689f\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\24c21ebee38495bf004b369d425a689f\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c039c2e9ded07284834b4d3482fb4796\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c039c2e9ded07284834b4d3482fb4796\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\095aa936953f9e0629c80d17517cad12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\095aa936953f9e0629c80d17517cad12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\fa10f1979e82292436b8ec829da74736\core-1.3.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\fa10f1979e82292436b8ec829da74736\core-1.3.0-rc01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\ec2edf78c1abc9b706637461e7b527e6\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\ec2edf78c1abc9b706637461e7b527e6\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\fa10f1979e82292436b8ec829da74736\core-1.3.0-rc01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:14:18-44
+	android:label
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:18:18-50
+	android:hardwareAccelerated
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:11:18-52
+	android:resizeableActivity
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:12:18-52
+	android:icon
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:16:18-50
+	android:allowBackup
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:13:18-45
+	android:theme
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:15:18-57
+	android:networkSecurityConfig
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:17:18-78
+	android:name
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:10:18-49
+uses-library#org.apache.http.legacy
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:20:6-84
+	android:required
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:20:58-82
+	android:name
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:20:20-57
+activity#com.artech.activities.StartupActivity
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:22:9-27:20
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:70:9-72:48
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:70:9-72:48
+	android:label
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:22:72-104
+	android:exported
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:22:105-128
+	android:name
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:22:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:25:27-74
+provider#com.artech.pharmacy.pharmacymenu.AppEntityDataProvider
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:30:9-189
+	android:authorities
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:30:114-186
+	android:exported
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:30:89-113
+	android:name
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:30:19-88
+service#com.artech.pharmacy.pharmacymenu.AppEntityService
+ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:33:9-108
+	android:enabled
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:33:18-40
+	android:name
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml:33:41-105
+uses-sdk
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+MERGED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:6:5-8:41
+MERGED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:6:5-8:41
+MERGED from [com.genexus:CoreUserControls:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\35bc598145356ed7849d22bf60eb39d5\jetified-CoreUserControls-17.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.genexus:CoreUserControls:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\35bc598145356ed7849d22bf60eb39d5\jetified-CoreUserControls-17.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.genexus:SmartGridLib:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\5adae4b4f38cc7f8e1724d2759e1eb69\jetified-SmartGridLib-17.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.genexus:SmartGridLib:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\5adae4b4f38cc7f8e1724d2759e1eb69\jetified-SmartGridLib-17.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:5:5-8:63
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:5:5-8:63
+MERGED from [com.genexus:SqlDroidBase:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\d4f3a9b76916c4c6c1f38d43dc411b0b\jetified-SqlDroidBase-17.8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.genexus:SqlDroidBase:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\d4f3a9b76916c4c6c1f38d43dc411b0b\jetified-SqlDroidBase-17.8\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\11b130d383717d092c2e6da7b367fdca\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\11b130d383717d092c2e6da7b367fdca\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\065024548d40e46946ef477ace4d4161\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\065024548d40e46946ef477ace4d4161\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9fa8fb93dfec6a84a70fa805b5172b60\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9fa8fb93dfec6a84a70fa805b5172b60\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e3f9cdef1464a76b5679ecb8b475354a\appcompat-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e3f9cdef1464a76b5679ecb8b475354a\appcompat-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\7ac469eef273637cd2ad206b9a069ee6\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\7ac469eef273637cd2ad206b9a069ee6\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e64d7e35297cd41dce00b6cf2b20e9e2\jetified-picasso-2.8\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e64d7e35297cd41dce00b6cf2b20e9e2\jetified-picasso-2.8\AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\64f0ead74e54adb37ca2565ff75211b9\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\64f0ead74e54adb37ca2565ff75211b9\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6521fa1a140394b1307b3d06998447b7\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6521fa1a140394b1307b3d06998447b7\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\24c21ebee38495bf004b369d425a689f\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\24c21ebee38495bf004b369d425a689f\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c039c2e9ded07284834b4d3482fb4796\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c039c2e9ded07284834b4d3482fb4796\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\095aa936953f9e0629c80d17517cad12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\095aa936953f9e0629c80d17517cad12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c76d19e2f543234c72419290b7fb11ca\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c76d19e2f543234c72419290b7fb11ca\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\768cfb2a4262fa5cb65ae34180ff5bc0\jetified-appcompat-resources-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\768cfb2a4262fa5cb65ae34180ff5bc0\jetified-appcompat-resources-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\f68eb04825f2cedf22e6a46b3ee59b2f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\f68eb04825f2cedf22e6a46b3ee59b2f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\3c93d0ec54ff424d618d45305f0eeef9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\3c93d0ec54ff424d618d45305f0eeef9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c39e7a1bdb840c08118de3e9b81540e3\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c39e7a1bdb840c08118de3e9b81540e3\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\3a805a603452127b4189783e74e921e7\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\3a805a603452127b4189783e74e921e7\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9bdac95bf32f882e8907da8b90fe7f91\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9bdac95bf32f882e8907da8b90fe7f91\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\caaf3a03f67f23abf8dba149bfe4e44f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\caaf3a03f67f23abf8dba149bfe4e44f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c60d2eab6b872ec541c97a885fed8242\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\c60d2eab6b872ec541c97a885fed8242\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\0558d3a2e5c837893832dccc8f4af894\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\0558d3a2e5c837893832dccc8f4af894\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\90147da073bdb30c0bbfeac434ced1b7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\90147da073bdb30c0bbfeac434ced1b7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\1394b21760b0162aa2996e1b887c808e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\1394b21760b0162aa2996e1b887c808e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\5ace23f4b298d4515ea27b8f7ef3cc0b\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\5ace23f4b298d4515ea27b8f7ef3cc0b\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\16da138374f531a9cd3a33d682178f5f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\16da138374f531a9cd3a33d682178f5f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\85513e5c68c85e590dbf999d42be72e5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\85513e5c68c85e590dbf999d42be72e5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\b5ada417d2ba475801a344d23c657f84\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\b5ada417d2ba475801a344d23c657f84\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\fa10f1979e82292436b8ec829da74736\core-1.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\fa10f1979e82292436b8ec829da74736\core-1.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\463a52ac9d1ca9d12a2572a431154c4e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\463a52ac9d1ca9d12a2572a431154c4e\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\f0df0b30ada10eae71cbd2f6948fc092\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\f0df0b30ada10eae71cbd2f6948fc092\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\d711a29629d59415dd68d09d2b526c46\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\d711a29629d59415dd68d09d2b526c46\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\aab84b7d38b09b6e29aacf6fc1a060fd\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\aab84b7d38b09b6e29aacf6fc1a060fd\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\ec2edf78c1abc9b706637461e7b527e6\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\ec2edf78c1abc9b706637461e7b527e6\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\975132590ec8a942ce0326aa0ed0c8fb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\975132590ec8a942ce0326aa0ed0c8fb\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6d9f40c547df1bb9a18467d82cf33a0b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6d9f40c547df1bb9a18467d82cf33a0b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\687e4368fdc5698b830f001d95799008\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\687e4368fdc5698b830f001d95799008\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\866af7eab7309e0d1c2f0a8ab91b17c8\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\866af7eab7309e0d1c2f0a8ab91b17c8\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\89ac658eb2b84158cdd4e37da046350e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\89ac658eb2b84158cdd4e37da046350e\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\34d36200c07d1e58d06287c22c041e5a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\34d36200c07d1e58d06287c22c041e5a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\843617e298e2c1967e06ef89f80cdb39\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\843617e298e2c1967e06ef89f80cdb39\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\997d0f6c58b13a39a7fb034555510d44\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\997d0f6c58b13a39a7fb034555510d44\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.zolad:zoominimageview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9cc5cc9427231dc7d81ad10dd8d5cff7\jetified-zoominimageview-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zolad:zoominimageview:1.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9cc5cc9427231dc7d81ad10dd8d5cff7\jetified-zoominimageview-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.caverock:androidsvg-aar:1.4] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\0deec065129511f795d0956de3657830\jetified-androidsvg-aar-1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.caverock:androidsvg-aar:1.4] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\0deec065129511f795d0956de3657830\jetified-androidsvg-aar-1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.genexus:roundedimageview:2.4.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\f99aaedb815517cec9b596845dbff21c\jetified-roundedimageview-2.4.0\AndroidManifest.xml:7:5-44
+MERGED from [com.genexus:roundedimageview:2.4.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\f99aaedb815517cec9b596845dbff21c\jetified-roundedimageview-2.4.0\AndroidManifest.xml:7:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
+MERGED from [com.simplecityapps:recyclerview-fastscroll:2.0.1] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\0ed522506471d6acc10c32ad013138f0\jetified-recyclerview-fastscroll-2.0.1\AndroidManifest.xml:7:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:2.0.1] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\0ed522506471d6acc10c32ad013138f0\jetified-recyclerview-fastscroll-2.0.1\AndroidManifest.xml:7:5-44
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:8:9-60
+	android:targetSdkVersion
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+		ADDED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+		INJECTED from C:\KB\Pharmacy\CSharpModel\mobile\Android\PharmacyMenu\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:10:5-79
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:11:5-79
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:11:22-76
+queries
+ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:13:5-24:15
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:13:5-41:15
+MERGED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:13:5-41:15
+intent#action:name:android.intent.action.PICK+data:mimeType:vnd.android.cursor.dir/phone_v2
+ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:14:9-18:18
+action#android.intent.action.PICK
+ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:15:21-62
+data
+ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:17:13-72
+	android:mimeType
+		ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:17:19-69
+intent#action:name:android.intent.action.VIEW+data:mimeType:*/*
+ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:19:9-23:18
+action#android.intent.action.VIEW
+ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:20:21-62
+activity#com.genexus.coreexternalobjects.WebBrowserRedirectActivity
+ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.genexus:CoreExternalObjects:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\6bd7f6f3b3c2d2b0be1743d011b8aa09\jetified-CoreExternalObjects-17.8\AndroidManifest.xml:28:13-86
+uses-permission#android.permission.INTERNET
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:10:22-64
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:audio/*, image/*, video/*
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:14:9-18:18
+action#android.intent.action.GET_CONTENT
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:15:21-69
+intent#action:name:android.intent.action.OPEN_DOCUMENT+data:mimeType:audio/*, image/*, video/*
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:19:9-23:18
+action#android.intent.action.OPEN_DOCUMENT
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:20:13-74
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:20:21-71
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:24:9-26:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:25:21-70
+intent#action:name:android.media.action.VIDEO_CAPTURE
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:27:9-29:18
+action#android.media.action.VIDEO_CAPTURE
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:28:21-70
+intent#action:name:android.provider.MediaStore.RECORD_SOUND
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:30:9-32:18
+action#android.provider.MediaStore.RECORD_SOUND
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:31:13-79
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:31:21-76
+intent#action:name:android.intent.action.SENDTO+data:scheme:smsto
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:33:9-37:18
+action#android.intent.action.SENDTO
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:34:13-67
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:34:21-64
+intent#action:name:com.google.android.youtube.api.service.START
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:38:9-40:18
+action#com.google.android.youtube.api.service.START
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:39:13-83
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:39:21-80
+activity#com.artech.activities.GenexusActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:47:9-54:20
+	android:label
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:49:13-45
+	android:windowSoftInputMode
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:50:13-73
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:48:13-65
+meta-data#android.app.default_searchable
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:51:13-53:76
+	android:value
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:53:17-73
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:52:17-62
+activity#com.artech.activities.SearchStubActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:55:9-69:20
+	android:exported
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:56:13-68
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:60:13-64:29
+action#android.intent.action.SEARCH
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:61:17-71
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:61:25-68
+category#android.intent.category.DEFAULT
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:63:17-76
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:63:27-73
+meta-data#android.app.searchable
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:66:13-68:54
+	android:resource
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:68:17-51
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:67:17-54
+activity#com.artech.activities.BTDeviceListActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:73:9-79
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:73:19-76
+activity#com.artech.activities.WebViewActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:74:9-77:20
+	android:label
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:76:13-48
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:75:13-65
+activity#com.artech.activities.VideoViewActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:78:9-81:20
+	android:label
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:80:13-48
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:79:13-67
+activity#com.artech.application.Preferences
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:82:9-85:20
+	android:label
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:84:13-52
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:83:13-62
+activity#com.artech.activities.FiltersActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:86:9-89:20
+	android:label
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:88:13-47
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:87:13-65
+activity#com.artech.activities.DetailFiltersActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:90:9-93:20
+	android:label
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:92:13-47
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:91:13-71
+activity#com.artech.activities.SearchResultsActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:94:9-98:20
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:94:19-77
+activity#com.artech.activities.LoginBiometricsActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:99:9-82
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:99:19-79
+activity#com.artech.android.gam.AuthManagementActivity
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:100:9-104:75
+	android:launchMode
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:103:13-44
+	android:exported
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:102:13-37
+	android:theme
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:104:13-72
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:101:13-73
+receiver#com.artech.android.notification.NotificationAlert
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:106:9-86
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:106:19-83
+service#com.artech.controls.maps.LocationUpdatesService
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:108:9-111:40
+	android:enabled
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:110:13-35
+	android:exported
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:111:13-37
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:109:13-75
+provider#androidx.core.content.FileProvider
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:113:9-121:20
+	android:grantUriPermissions
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:117:13-47
+	android:authorities
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:115:13-65
+	android:exported
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:116:13-37
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:114:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:118:13-120:56
+	android:resource
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:120:17-53
+	android:name
+		ADDED from [com.genexus:FlexibleClient:17.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\2444b28ef94d69108de14884ff71b5d4\jetified-FlexibleClient-17.8\AndroidManifest.xml:119:17-67
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e64d7e35297cd41dce00b6cf2b20e9e2\jetified-picasso-2.8\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e64d7e35297cd41dce00b6cf2b20e9e2\jetified-picasso-2.8\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e64d7e35297cd41dce00b6cf2b20e9e2\jetified-picasso-2.8\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.8] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\e64d7e35297cd41dce00b6cf2b20e9e2\jetified-picasso-2.8\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\24c21ebee38495bf004b369d425a689f\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\24c21ebee38495bf004b369d425a689f\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\24c21ebee38495bf004b369d425a689f\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\24c21ebee38495bf004b369d425a689f\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\095aa936953f9e0629c80d17517cad12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\095aa936953f9e0629c80d17517cad12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\095aa936953f9e0629c80d17517cad12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\9b48b36610e441501f0429fdc68b0bb9\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\DELL E5480\.gradle\caches\transforms-2\files-2.1\be366a3faf9db2b54feef1a6ac2de5f9\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:22-86

@@ -1,0 +1,3 @@
+C:\KB\Pharmacy\CSharpModel\web\bin\recentlinks.dll
+C:\KB\Pharmacy\CSharpModel\build\recentlinks\obj\Release\recentlinks.csprojResolveAssemblyReference.cache
+C:\KB\Pharmacy\CSharpModel\build\recentlinks\obj\Release\recentlinks.dll

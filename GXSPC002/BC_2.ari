@@ -1,0 +1,4 @@
+bc_dt_elem_i([ 0,2,0 ],'Producttypecode',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Producttypename',allownulls,no).
+bc_dt_elem_i([ 0,2,0 ],'Producttypeproductquantity',readonly,yes).
+ 

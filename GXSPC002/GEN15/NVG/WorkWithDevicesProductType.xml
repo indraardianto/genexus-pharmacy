@@ -1,0 +1,34 @@
+
+<ObjectSpec>
+<SpecVersion>17_0_8-158023</SpecVersion>
+<Object>
+<ObjClsGuid>15cf49b5-fc38-4899-91b5-395d02d79889</ObjClsGuid>
+<ObjCls>35</ObjCls>
+<ObjId>1</ObjId>
+<ObjName>WorkWithDevicesProductType</ObjName>
+<ObjDesc>Work With Devices Product Type</ObjDesc>
+<ObjPgmName>WorkWithDevicesProductType</ObjPgmName>
+<ObjClsName>WorkWith Devices</ObjClsName>
+<Objects>
+<Object>
+<ObjName>WorkWithDevicesProductType_ProductType_List_Grid1</ObjName>
+<ObjNavig>GXSPC002\GEN15\NVG\WorkWithDevicesProductType_ProductType_List_Grid1.xml</ObjNavig>
+<ObjClsGuid>2a9e9aba-d2de-4801-ae7f-5e3819222daf</ObjClsGuid></Object>
+<Object>
+<ObjName>WorkWithDevicesProductType_ProductType_Detail</ObjName>
+<ObjNavig>GXSPC002\GEN15\NVG\WorkWithDevicesProductType_ProductType_Detail.xml</ObjNavig>
+<ObjClsGuid>2a9e9aba-d2de-4801-ae7f-5e3819222daf</ObjClsGuid></Object>
+<Object>
+<ObjName>WorkWithDevicesProductType_ProductType_Section_General</ObjName>
+<ObjNavig>GXSPC002\GEN15\NVG\WorkWithDevicesProductType_ProductType_Section_General.xml</ObjNavig>
+<ObjClsGuid>2a9e9aba-d2de-4801-ae7f-5e3819222daf</ObjClsGuid></Object>
+<Object>
+<ObjName>WorkWithDevicesProductType_ProductType_Section_Product_Grid1</ObjName>
+<ObjNavig>GXSPC002\GEN15\NVG\WorkWithDevicesProductType_ProductType_Section_Product_Grid1.xml</ObjNavig>
+<ObjClsGuid>2a9e9aba-d2de-4801-ae7f-5e3819222daf</ObjClsGuid></Object></Objects></Object>
+<Result>nogenreq</Result>
+<Warnings></Warnings>
+<Errors></Errors>
+<Generator>
+<GenId>15</GenId>
+<GenName>Default (.NET Framework)</GenName></Generator></ObjectSpec>

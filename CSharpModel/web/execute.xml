@@ -1,0 +1,30 @@
+<?xml-stylesheet type='text/xsl' href='prgs.xsl'?>
+<Objects>
+  <Charset>UTF-8</Charset>
+  <Path>file:///C:/Program Files (x86)/GeneXus/GeneXus17Trial/</Path>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>Home</ObjName>
+    <ObjDesc>Home</ObjDesc>
+    <ObjLink>home.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWProductType</ObjName>
+    <ObjDesc>Product Types</ObjDesc>
+    <ObjLink>wwproducttype.aspx</ObjLink>
+  </Object>
+  <Object>
+    <ObjCls>13</ObjCls>
+    <ObjName>WWProduct</ObjName>
+    <ObjDesc>Products</ObjDesc>
+    <ObjLink>wwproduct.aspx</ObjLink>
+  </Object>
+  <Dashboards>
+    <Android>
+      <Name>
+      </Name>
+      <URI>https://trialapps3.genexus.com/Idcbe717e1dc1808e333ce2637efbb0588/.apk</URI>
+    </Android>
+  </Dashboards>
+</Objects>

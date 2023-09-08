@@ -1,0 +1,48 @@
+ 
+spec_i([ sdt,[ 26,1000000,0 ],'WorkWithDevicesProductType_ProductType_Section_GeneralSdt','WorkWithDevicesProductType_ProductType_Section_GeneralSdt',0,eng,'17_0_8-158023' ]).
+ 
+struct_dt_i([ 26,1000000,0 ],name,'WorkWithDevicesProductType_ProductType_Section_GeneralSdt').
+struct_dt_i([ 26,1000000,0 ],camelname,'WorkWithDevicesProductType_ProductType_Section_GeneralSdt').
+struct_dt_i([ 26,1000000,0 ],camelnameex,'WorkWithDevicesProductType_ProductType_Section_GeneralSdt').
+struct_dt_i([ 26,1000000,0 ],collection,'False').
+struct_dt_i([ 26,1000000,0 ],wwsd_sdt,'True').
+struct_dt_i([ 26,1000000,0 ],panel,[ 'ProductType.Section.General' ]).
+struct_dt_i([ 26,1000000,0 ],key,[ 2,[ 5 ],[ 2,1,'ProductType' ] ]).
+struct_dt_i([ 26,1000000,0 ],modified,yes).
+struct_dt_i([ 26,1000000,0 ],fullname,'WorkWithDevicesProductType_ProductType_Section_GeneralSdt').
+ 
+struct_dt_elem_i([ 26,1000000,0 ],1,name,'Producttypecode').
+struct_dt_elem_i([ 26,1000000,0 ],1,camelname,'ProductTypeCode').
+struct_dt_elem_i([ 26,1000000,0 ],1,type,[ 4,4,0 ]).
+struct_dt_elem_i([ 26,1000000,0 ],1,length,4).
+struct_dt_elem_i([ 26,1000000,0 ],1,decimals,0).
+struct_dt_elem_i([ 26,1000000,0 ],1,sign,0).
+struct_dt_elem_i([ 26,1000000,0 ],1,collection,'False').
+struct_dt_elem_i([ 26,1000000,0 ],1,islevel,'False').
+struct_dt_elem_i([ 26,1000000,0 ],2,name,'Producttypename').
+struct_dt_elem_i([ 26,1000000,0 ],2,camelname,'ProductTypeName').
+struct_dt_elem_i([ 26,1000000,0 ],2,type,[ 5,50,0 ]).
+struct_dt_elem_i([ 26,1000000,0 ],2,length,50).
+struct_dt_elem_i([ 26,1000000,0 ],2,decimals,0).
+struct_dt_elem_i([ 26,1000000,0 ],2,sign,0).
+struct_dt_elem_i([ 26,1000000,0 ],2,collection,'False').
+struct_dt_elem_i([ 26,1000000,0 ],2,islevel,'False').
+struct_dt_elem_i([ 26,1000000,0 ],3,name,'Producttypeproductquantity').
+struct_dt_elem_i([ 26,1000000,0 ],3,camelname,'ProductTypeProductQuantity').
+struct_dt_elem_i([ 26,1000000,0 ],3,type,[ 4,9,0 ]).
+struct_dt_elem_i([ 26,1000000,0 ],3,length,9).
+struct_dt_elem_i([ 26,1000000,0 ],3,decimals,0).
+struct_dt_elem_i([ 26,1000000,0 ],3,sign,0).
+struct_dt_elem_i([ 26,1000000,0 ],3,collection,'False').
+struct_dt_elem_i([ 26,1000000,0 ],3,islevel,'False').
+struct_dt_elem_i([ 26,1000000,0 ],1,attributeid,'5').
+struct_dt_elem_i([ 26,1000000,0 ],2,attributeid,'6').
+struct_dt_elem_i([ 26,1000000,0 ],3,attributeid,'8').
+ 
+ 
+ 
+ 
+ 
+ 
+module_info_i('GeneXus\SD','CSHARP_NAME_SPACE','GeneXus.Core').
+module_info_i('GeneXus\SD','AssemblyName','GeneXus.dll').

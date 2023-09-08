@@ -1,0 +1,28 @@
+<Objects>
+  <Object>
+    <Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+    <Id>1</Id>
+    <Part>264be5fb-1b28-4b25-a598-6ca900dd059f</Part>
+  </Object>
+  <Object>
+    <Type>1db606f2-af09-4cf9-a3b5-b481519d28f6</Type>
+    <Id>2</Id>
+    <Part>264be5fb-1b28-4b25-a598-6ca900dd059f</Part>
+  </Object>
+  <Object>
+    <Type>d82625fd-5892-40b0-99c9-5c8559c197fc</Type>
+    <Id>1</Id>
+    <Part>1414ed00-8cc4-4f44-8820-4baf93547173</Part>
+  </Object>
+  <Object>
+    <Type>15cf49b5-fc38-4899-91b5-395d02d79889</Type>
+    <Id>1</Id>
+    <Part>a51ced48-7bee-0001-ab12-04e9e32123d1</Part>
+  </Object>
+  <Recent>
+    <RecentKBObjectsList>
+      <MaximumItems>10</MaximumItems>
+      <RecentKBObjects />
+    </RecentKBObjectsList>
+  </Recent>
+</Objects>

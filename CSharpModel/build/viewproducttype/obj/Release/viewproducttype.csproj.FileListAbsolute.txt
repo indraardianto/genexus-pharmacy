@@ -1,0 +1,3 @@
+C:\KB\Pharmacy\CSharpModel\web\bin\viewproducttype.dll
+C:\KB\Pharmacy\CSharpModel\build\viewproducttype\obj\Release\viewproducttype.csprojResolveAssemblyReference.cache
+C:\KB\Pharmacy\CSharpModel\build\viewproducttype\obj\Release\viewproducttype.dll

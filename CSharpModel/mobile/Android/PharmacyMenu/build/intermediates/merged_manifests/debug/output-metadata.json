@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "MERGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.artech.pharmacy.pharmacymenu",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 10,
+      "versionName": "1.0",
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}

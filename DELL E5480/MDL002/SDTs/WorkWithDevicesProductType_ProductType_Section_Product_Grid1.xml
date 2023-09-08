@@ -1,0 +1,64 @@
+
+<SdtSpec>
+<mainid>[ 26,1000000,0 ]</mainid>
+<Level>
+<id>[ 26,1000000,0 ]</id>
+<name>WorkWithDevicesProductType_ProductType_Section_Product_Grid1Sdt</name>
+<camelname>WorkWithDevicesProductType_ProductType_Section_Product_Grid1Sdt</camelname>
+<camelnameex>WorkWithDevicesProductType_ProductType_Section_Product_Grid1Sdt</camelnameex>
+<collection>True</collection>
+<datatype>[ 26,1000000,1 ]</datatype>
+<wwsd_sdt>True</wwsd_sdt>
+<panel>[ 'ProductType.Section.Product' ]</panel>
+<key>[ 1,[ 1 ],[] ]</key>
+<modified>yes</modified>
+<fullname>WorkWithDevicesProductType_ProductType_Section_Product_Grid1Sdt</fullname></Level>
+<Level>
+<id>[ 26,1000000,1 ]</id>
+<name>Item</name>
+<camelname>Item</camelname>
+<camelnameex>Item</camelnameex>
+<modified>yes</modified>
+<fullname>WorkWithDevicesProductType_ProductType_Section_Product_Grid1Sdt.Item</fullname>
+<members>
+<member>
+<name>Productcode</name>
+<camelname>ProductCode</camelname>
+<type>[ 4,4,0 ]</type>
+<length>4</length>
+<decimals>0</decimals>
+<sign>0</sign>
+<collection>False</collection>
+<islevel>False</islevel>
+<attributeid>1</attributeid></member>
+<member>
+<name>Productphoto</name>
+<camelname>ProductPhoto</camelname>
+<type>[ 7,1024,0 ]</type>
+<length>1024</length>
+<decimals>0</decimals>
+<sign>0</sign>
+<collection>False</collection>
+<islevel>False</islevel>
+<attributeid>7</attributeid></member>
+<member>
+<name>Productname</name>
+<camelname>ProductName</camelname>
+<type>[ 5,50,0 ]</type>
+<length>50</length>
+<decimals>0</decimals>
+<sign>0</sign>
+<collection>False</collection>
+<islevel>False</islevel>
+<attributeid>2</attributeid></member></members></Level>
+<Prompts></Prompts>
+<TableAccess>
+<Table>
+<Id>1</Id>
+<Name>Product</Name>
+<Read>y</Read>
+<Insert>n</Insert>
+<Update>n</Update>
+<Delete>n</Delete>
+<IsBase>y</IsBase></Table></TableAccess>
+<XRef></XRef></SdtSpec>

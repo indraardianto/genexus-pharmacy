@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_themes.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\themes"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_pharmacymenu_android.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\pharmacymenu_android"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_pharmacymenu_gxapp.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\pharmacymenu_gxapp"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_domains.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\domains"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_images_english_carmineandroid.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\images_english_carmineandroid"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_messages_eng_txt.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\messages_eng_txt"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_pharmacymenu_panel.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\pharmacymenu_panel"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_pharmacymenu_settings.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\pharmacymenu_settings"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_carmineios_theme.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\carmineios_theme"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_produk_png.png.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\drawable-hdpi\\produk_png.png"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_images_txt.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\images_txt"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_settings.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\settings"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_workwithdevicesproducttype_ww.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\workwithdevicesproducttype_ww"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_carmineandroid_theme.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\carmineandroid_theme"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_english_language.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\english_language"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_gximages.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\gximages"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_languages.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\languages"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_pharmacymenu_properties.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\pharmacymenu_properties"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_appid.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\appid"
+    },
+    {
+        "merged": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\build\\intermediates\\res\\merged\\debug\\raw_producttype.flat",
+        "source": "C:\\KB\\Pharmacy\\CSharpModel\\mobile\\Android\\PharmacyMenu\\src\\main\\res\\raw\\producttype"
+    }
+]

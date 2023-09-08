@@ -1,0 +1,3 @@
+C:\KB\Pharmacy\CSharpModel\web\bin\gxaftereventreplicator.dll
+C:\KB\Pharmacy\CSharpModel\build\gxaftereventreplicator\obj\Release\gxaftereventreplicator.csprojResolveAssemblyReference.cache
+C:\KB\Pharmacy\CSharpModel\build\gxaftereventreplicator\obj\Release\gxaftereventreplicator.dll
